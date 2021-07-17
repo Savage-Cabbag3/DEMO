@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+}
+
+#Title {
+    font-variant: small-caps;
+    font-size: 75px;
+}
+
+#album {
+    height: 650px;
+}
+
+#pre {
+    font-size: 55px
+}
